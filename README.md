@@ -72,6 +72,4 @@ This project is a **Grammar Scoring Engine** designed to evaluate spoken audio s
 ---
 
 ## 👤 Author
-
-**Shivansh Dubey**  
-github.com/shivnashdubey280
+<a href="https://www.github.com/shivanshdubey280"><src="ShivanshDubey"></a>
