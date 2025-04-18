@@ -4,13 +4,6 @@ This project is a **Grammar Scoring Engine** designed to evaluate spoken audio s
 
 ---
 
-## 📁 Project Structure
-![image](https://github.com/user-attachments/assets/115a3fcb-e56f-4cbf-843f-50a6585c3709)
-
-
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**:
@@ -81,6 +74,4 @@ This project is a **Grammar Scoring Engine** designed to evaluate spoken audio s
 ## 👤 Author
 
 **Shivansh Dubey**  
-
----
-
+github.com/shivnashdubey280
